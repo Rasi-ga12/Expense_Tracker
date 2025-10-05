@@ -61,12 +61,12 @@ cd Expense_Tracker
 5. Filter by Category
 6. Show Summary Report
 0. Exit
-Enter choice: 1
+-Enter choice: 1
 
-Amount: 500
-Date: 2025-10-05
-Note: Lunch with friends
-Category: Food
+-Amount: 500
+-Date: 2025-10-05
+-Note: Lunch with friends
+-Category: Food
 Expense added successfully.
 
 
