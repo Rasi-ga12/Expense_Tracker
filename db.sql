@@ -1,0 +1,7 @@
+CREATE TABLE expenses (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  amount DOUBLE NOT NULL,
+  date DATE NOT NULL,
+  note VARCHAR(255),
+  category VARCHAR(100)
+);
